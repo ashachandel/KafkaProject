@@ -19,7 +19,6 @@ public class LocationControler {
     @Autowired
     private KafkaService kafkaService;
 
-
     private Logger logger = LoggerFactory.getLogger(KafkaService.class);
 
  @PostMapping("/update")
