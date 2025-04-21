@@ -1,0 +1,8 @@
+# Ignore Maven target directories
+target/
+
+# IntelliJ / macOS stuff
+.idea/
+*.iml
+.DS_Store
+
